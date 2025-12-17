@@ -3,15 +3,15 @@
   "theme": "willow",
   "name": "Willow Starter Kit",
   "logo": {
-    "light": "/logo/lightrail-logomark-black.png",
-    "dark": "/logo/lightrail-logomark-white.png"
+    "light": "/lightrail-logomark.svg",
+    "dark": "/lightrail-logomark.svg"
   },
   "colors": {
     "primary": "#006AD4",
     "light": "#007FFF",
     "dark": "#006AD4"
   },
-  "favicon": "lightrail-logomark.svg",
+  "favicon": "/lightrail-logomark.svg",
   "navbar": {
     "primary": {
       "type": "button",
