@@ -3,8 +3,8 @@
   "theme": "willow",
   "name": "Willow Starter Kit",
   "logo": {
-    "light": "/logo/lightrail-logomark-white.png",
-    "dark": "/logo/lightrail-logomark-black.png"
+    "light": "/logo/lightrail-logomark-black.png",
+    "dark": "/logo/lightrail-logomark-white.png"
   },
   "colors": {
     "primary": "#006AD4",
@@ -60,5 +60,10 @@
     "socials": {
       "linkedin": "https://www.linkedin.com/company/giftbit"
     }
+  },
+  "feedback": {
+    "thumbsRating": true,
+    "suggestEdit": true,
+    "raiseIssue": true
   }
 }
