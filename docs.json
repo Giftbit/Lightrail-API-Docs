@@ -17,38 +17,83 @@
     }
   },
   "navigation": {
-    "tabs": [
+    "versions": [
       {
-        "tab": "Get Started",
-        "groups": [
+        "version": "Public API",
+        "default": true,
+        "tabs": [
           {
-            "group": "Get Started",
-            "pages": [
-              "welcome",
-              "quickstart",
-              "development"
+            "tab": "Get Started",
+            "groups": [
+              {
+                "group": "Get Started",
+                "pages": [
+                  "welcome",
+                  "quickstart",
+                  "development"
+                ]
+              },
+              {
+                "group": "Essentials",
+                "pages": [
+                  "essentials/markdown",
+                  "essentials/code",
+                  "essentials/images",
+                  "essentials/settings",
+                  "essentials/navigation",
+                  "essentials/reusable-snippets",
+                  "api-reference/create.mdx"
+                ]
+              }
             ]
           },
           {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets",
-              "api-reference/create.mdx"
+            "tab": "API Reference",
+            "groups": [
+              {
+                "group": "API Reference",
+                "openapi": "https://assets.lightrail.com/openapi/latest-public.yaml"
+              }
             ]
           }
         ]
       },
       {
-        "tab": "API Reference",
-        "groups": [
+        "version": "Full API",
+        "tabs": [
           {
-            "group": "API Reference",
-            "openapi": "https://assets.lightrail.com/openapi/latest-public.yaml"
+            "tab": "Get Started",
+            "groups": [
+              {
+                "group": "Get Started",
+                "pages": [
+                  "welcome",
+                  "quickstart",
+                  "development"
+                ]
+              },
+              {
+                "group": "Essentials",
+                "pages": [
+                  "essentials/markdown",
+                  "essentials/code",
+                  "essentials/images",
+                  "essentials/settings",
+                  "essentials/navigation",
+                  "essentials/reusable-snippets",
+                  "api-reference/create.mdx"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "API Reference",
+            "groups": [
+              {
+                "group": "API Reference",
+                "openapi": "https://assets.lightrail.com/openapi/latest.yaml"
+              }
+            ]
           }
         ]
       }
