@@ -2,10 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "willow",
   "name": "Willow Starter Kit",
-  "logo": {
-    "light": "/lightrail-logomark.svg",
-    "dark": "/lightrail-logomark.svg"
-  },
+  "logo": "/images/lr-logomark.svg",
   "colors": {
     "primary": "#006AD4",
     "light": "#007FFF",
@@ -66,8 +63,5 @@
     "thumbsRating": true,
     "suggestEdit": true,
     "raiseIssue": true
-  },
-  "background": {
-    "image": "/images/lr-logomark.svg"
   }
 }
