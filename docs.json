@@ -11,7 +11,7 @@
     "light": "#007FFF",
     "dark": "#006AD4"
   },
-  "favicon": "/lightrail-logomark.svg",
+  "favicon": "/images/lr-logomark.svg",
   "navbar": {
     "primary": {
       "type": "button",
@@ -66,5 +66,8 @@
     "thumbsRating": true,
     "suggestEdit": true,
     "raiseIssue": true
+  },
+  "background": {
+    "image": "/images/lr-logomark.svg"
   }
 }
