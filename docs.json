@@ -28,20 +28,20 @@
               {
                 "group": "Get Started",
                 "pages": [
-                  "welcome",
-                  "quickstart",
-                  "development"
+                  "public-api/welcome",
+                  "public-api/quickstart",
+                  "public-api/development"
                 ]
               },
               {
                 "group": "Essentials",
                 "pages": [
-                  "essentials/markdown",
-                  "essentials/code",
-                  "essentials/images",
-                  "essentials/settings",
-                  "essentials/navigation",
-                  "essentials/reusable-snippets",
+                  "public-api/essentials/markdown",
+                  "public-api/essentials/code",
+                  "public-api/essentials/images",
+                  "public-api/essentials/settings",
+                  "public-api/essentials/navigation",
+                  "public-api/essentials/reusable-snippets",
                   "api-reference/create.mdx"
                 ]
               }
@@ -67,20 +67,20 @@
               {
                 "group": "Get Started",
                 "pages": [
-                  "welcome",
-                  "quickstart",
-                  "development"
+                  "full-api/welcome",
+                  "full-api/quickstart",
+                  "full-api/development"
                 ]
               },
               {
                 "group": "Essentials",
                 "pages": [
-                  "essentials/markdown",
-                  "essentials/code",
-                  "essentials/images",
-                  "essentials/settings",
-                  "essentials/navigation",
-                  "essentials/reusable-snippets",
+                  "full-api/essentials/markdown",
+                  "full-api/essentials/code",
+                  "full-api/essentials/images",
+                  "full-api/essentials/settings",
+                  "full-api/essentials/navigation",
+                  "full-api/essentials/reusable-snippets",
                   "api-reference/create.mdx"
                 ]
               }
