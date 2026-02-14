@@ -34,15 +34,9 @@
                 ]
               },
               {
-                "group": "Essentials",
+                "group": "Changelog",
                 "pages": [
-                  "public-api/essentials/markdown",
-                  "public-api/essentials/code",
-                  "public-api/essentials/images",
-                  "public-api/essentials/settings",
-                  "public-api/essentials/navigation",
-                  "public-api/essentials/reusable-snippets",
-                  "api-reference/create.mdx"
+                  "public-api/changelog"
                 ]
               }
             ]
@@ -73,15 +67,9 @@
                 ]
               },
               {
-                "group": "Essentials",
+                "group": "Changelog",
                 "pages": [
-                  "full-api/essentials/markdown",
-                  "full-api/essentials/code",
-                  "full-api/essentials/images",
-                  "full-api/essentials/settings",
-                  "full-api/essentials/navigation",
-                  "full-api/essentials/reusable-snippets",
-                  "api-reference/create.mdx"
+                  "full-api/changelog"
                 ]
               }
             ]
@@ -92,6 +80,35 @@
               {
                 "group": "API Reference",
                 "openapi": "https://assets.lightrail.com/openapi/latest.yaml"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "version": "Bootstrap Example",
+        "tabs": [
+          {
+            "tab": "Get Started",
+            "groups": [
+              {
+                "group": "Get Started",
+                "pages": [
+                  "bootstrap-files/welcome",
+                  "bootstrap-files/quickstart",
+                  "bootstrap-files/development"
+                ]
+              },
+              {
+                "group": "Essentials",
+                "pages": [
+                  "bootstrap-files/essentials/markdown",
+                  "bootstrap-files/essentials/code",
+                  "bootstrap-files/essentials/images",
+                  "bootstrap-files/essentials/settings",
+                  "bootstrap-files/essentials/navigation",
+                  "bootstrap-files/essentials/reusable-snippets"
+                ]
               }
             ]
           }
