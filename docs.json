@@ -29,8 +29,7 @@
                 "group": "Get Started",
                 "pages": [
                   "public-api/welcome",
-                  "public-api/quickstart",
-                  "public-api/development"
+                  "public-api/quickstart"
                 ]
               },
               {
@@ -62,8 +61,7 @@
                 "group": "Get Started",
                 "pages": [
                   "full-api/welcome",
-                  "full-api/quickstart",
-                  "full-api/development"
+                  "full-api/quickstart"
                 ]
               },
               {
