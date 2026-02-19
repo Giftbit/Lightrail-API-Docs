@@ -1,8 +1,10 @@
 # Overview
 The documents in this directory define our public api docs, published and available through the Mintlify platform.
 
-# Making Changes
-## Locally
+See here for full docs on how to configure : [Mintlify Docs](https://www.mintlify.com/docs)
+
+# Quick start
+## Local changes
 1. Open this repository in Cursor or your editor of choice.
 2. Create a new git branch before editing:
    - In Cursor Source Control, select `Create Branch` and use a descriptive name (for example: `docs/update-payout-quickstart`).
@@ -10,7 +12,7 @@ The documents in this directory define our public api docs, published and availa
 3. Follow the official Mintlify local preview instructions here: [Mintlify Quickstart (CLI preview)](https://www.mintlify.com/docs/quickstart).
 4. Run Mintlify locally via the CLI to preview your edits.
 
-## Mintlify
+## Web editor changes
 1. Log in to Mintlify and open the docs project from your dashboard.
 2. Open the `Editor`
 3. Used the branch selector to select, or create a new working branch for your update.
@@ -18,7 +20,7 @@ The documents in this directory define our public api docs, published and availa
 5. Use the `Publish` button to save changes to the branch
 6. When ready, use the `Publish` button to submit your changes for review via `Create pull request`
 
-# Publishing
+# Publishing changes
 Once your change `Pull request` is made, a developer will review the changes and then merge to main after review.
 After merge, Mintlify runs it's own CD workflow to publish the changes.
 
